@@ -1,3 +1,6 @@
+<html>
+	<title>SHOW</title>
+</html>
 <?php
  error_reporting(0); 
 
